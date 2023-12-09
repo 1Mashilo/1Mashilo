@@ -1,4 +1,4 @@
-8## Hi there 👋, my name is 1Mashilo
+## Hi there 👋, my name is Mashilo
 
 ### Welcome to my github page
 <!--![Welcome to my github page ](images/github%20profile.gif)-->
