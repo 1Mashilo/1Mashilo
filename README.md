@@ -7,19 +7,14 @@
 </p>
 
 <br>
-
-## 🐍 A Snake Eating my Contributions Graph
-![Snake animation](https://github.com/1Mashilo/1Mashilo/blob/output/github-contribution-grid-snake.svg)
-
-## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px"> About me
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px"> About me
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
 
 - 🎓 Chemistry graduate turned coding enthusiast
 - 📚 Software engineering student enrolled at [ALX Africa](https://www.alxafrica.com/)
 - 🔬 Over 4 years of experience as a QA analyst
 - 🚀 Exploring the vast world of programming one commit at a time
-- 🌟 Fun fact: Did you know that debugging is like being the detective in a crime movie where you are also the murderer? 😄
-
+- Learning to code can boost your brainpower! Studies have shown that coding can improve problem-solving skills, critical thinking, and even memory. So, coding isn't just about building websites and apps; it's about building a sharper mind
 ## 🛠️ Tools & Technologies
 
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
