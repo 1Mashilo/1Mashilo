@@ -10,7 +10,7 @@
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px"> About me
 
 - 🎓 Chemistry graduate turned coding enthusiast
-- 📚 Software engineering student enrolled at [ALX Africa](https://www.alxafrica.com/)
+- 📚 Full stack Software engineering student enrolled at [ALX Africa](https://www.alxafrica.com/)
 - 🔬 Over 4 years of experience as a QA analyst
 - 🚀 Currently diving into containers and container orchestration 
 - 💻 Actively seeking collaborations on backend projects
