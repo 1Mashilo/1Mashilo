@@ -12,9 +12,6 @@
 - 🎓 Chemistry graduate turned coding enthusiast
 - 📚 Full stack Software engineering student enrolled at [ALX Africa](https://www.alxafrica.com/)
 - 🔬 3+ years of experience as a QA analyst
-- 🚀 Currently diving into CI/CD Pipelines
-- 💻 Actively seeking collaborations on backend projects
-- Learning to code can boost your brainpower! Studies have shown that coding can improve problem-solving skills, critical thinking, and even memory. So, coding isn't just about building websites and apps; it's about building a sharper mind
 
 ## 🌐 Social links
 
