@@ -9,7 +9,7 @@
 <br>
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px">
 
-Chemistry graduate with a passion for coding.  Currently a Cyber Security Intern and a full-stack software engineering student at [ALX Africa](https://www.alxafrica.com/). With 3+ years of experience as a QA Analyst to excel in technical roles.
+Chemistry graduate with a passion for coding.  Currently a Full stack Intern and a full-stack software engineering student at [ALX Africa](https://www.alxafrica.com/). With 3+ years of experience as a QA Analyst to excel in technical roles.
 
 ## 🌐 Social links
 
